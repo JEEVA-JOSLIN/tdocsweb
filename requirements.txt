@@ -11,3 +11,4 @@ gevent>=1.4
 fastapi==0.103.0
 uvicorn==0.22.0
 python-multipart==0.0.5
+opencv-python
