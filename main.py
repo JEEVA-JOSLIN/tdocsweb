@@ -39,7 +39,6 @@ import os
 import json
 import base64
 import magic
-import cv2
 from PIL import Image
 from werkzeug.utils import secure_filename
 from flask import Flask, request, jsonify
