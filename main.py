@@ -40,9 +40,7 @@ import json
 import base64
 import magic
 from PIL import Image
-from werkzeug.utils import secure_filename
 from flask import Flask, request, jsonify
-
 from flask_cors import CORS
 
 app = Flask(__name__)
